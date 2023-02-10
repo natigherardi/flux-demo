@@ -1,0 +1,20 @@
+.beer-card {
+  align-items: center;
+  display: inline-block;
+  flex-direction: column;
+}
+
+.beer-card__info {
+  display: flex;
+  justify-content: space-around;
+}
+
+h2 {
+  text-align: center;
+}
+
+button {
+  font-size: 20px;
+  background-color: #bba7df;
+  background: none;
+}
